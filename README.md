@@ -22,7 +22,7 @@ pod 'FFExtension'
 
 ## Author
 
-yangwanjiangly@163.com, yangbaolong@shanhai.team
+ly_coder@163.com
 
 ## License
 

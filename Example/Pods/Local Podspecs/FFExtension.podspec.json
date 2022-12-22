@@ -3,16 +3,16 @@
   "version": "0.1.0",
   "summary": "A short description of FFExtension.",
   "description": "TODO: Add long description of the pod here.",
-  "homepage": "https://github.com/yangwanjiangly@163.com/FFExtension",
+  "homepage": "https://github.com/gumptior/FFExtension",
   "license": {
     "type": "MIT",
     "file": "LICENSE"
   },
   "authors": {
-    "yangwanjiangly@163.com": "yangbaolong@shanhai.team"
+    "gumptior": "ly_coder@163.com"
   },
   "source": {
-    "git": "https://github.com/yangwanjiangly@163.com/FFExtension.git",
+    "git": "https://github.com/gumptior/FFExtension.git",
     "tag": "0.1.0"
   },
   "platforms": {
