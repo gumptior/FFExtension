@@ -1,16 +1,16 @@
 PODS:
-  - FFExtension (0.1.0)
+  - FRExtension (0.1.0)
 
 DEPENDENCIES:
-  - FFExtension (from `../`)
+  - FRExtension (from `../`)
 
 EXTERNAL SOURCES:
-  FFExtension:
+  FRExtension:
     :path: "../"
 
 SPEC CHECKSUMS:
-  FFExtension: b69b61fe74e62815153b0c1bd5594d2c2cde0529
+  FRExtension: db4f65bf569aae779edd362845129227d0615bd3
 
-PODFILE CHECKSUM: a5da9222734ae396ea3e9905b5dbf6ae25b0cc3f
+PODFILE CHECKSUM: d76773f78a8cc8726a2730c3a67c6d1555ef5c9c
 
 COCOAPODS: 1.11.3

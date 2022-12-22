@@ -2,10 +2,10 @@ use_frameworks!
 
 platform :ios, '12.0'
 
-target 'FFExtension_Example' do
-  pod 'FFExtension', :path => '../'
+target 'FRExtension_Example' do
+  pod 'FRExtension', :path => '../'
 
-  target 'FFExtension_Tests' do
+  target 'FRExtension_Tests' do
     inherit! :search_paths
 
     

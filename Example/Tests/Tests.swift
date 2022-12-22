@@ -1,5 +1,5 @@
 import XCTest
-import FFExtension
+import FRExtension
 
 class Tests: XCTestCase {
     
