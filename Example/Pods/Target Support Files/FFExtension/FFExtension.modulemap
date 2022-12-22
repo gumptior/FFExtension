@@ -1,0 +1,6 @@
+framework module FFExtension {
+  umbrella header "FFExtension-umbrella.h"
+
+  export *
+  module * { export * }
+}

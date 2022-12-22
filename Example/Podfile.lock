@@ -1,0 +1,16 @@
+PODS:
+  - FFExtension (0.1.0)
+
+DEPENDENCIES:
+  - FFExtension (from `../`)
+
+EXTERNAL SOURCES:
+  FFExtension:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  FFExtension: 00b2d3f7904aaac4456441158c079828b8c9d1ef
+
+PODFILE CHECKSUM: a5da9222734ae396ea3e9905b5dbf6ae25b0cc3f
+
+COCOAPODS: 1.11.3
