@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '10.0'
+
+target 'FFExtension_Example' do
+  pod 'FFExtension', :path => '../'
+
+  target 'FFExtension_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
